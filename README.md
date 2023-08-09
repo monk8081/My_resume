@@ -8,7 +8,7 @@ Dedicated and motivated fresher seeking an entry-level position in DevOps and Cl
 
 ## KEY SKILLS
 | CLOUD | STACKS | WEB | CONFIGURATION  | OPERATING SYTEMS
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|
 AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / CHEF / PUPPET / SALT | LINUX / MICROSOFT / OPEN SOURCE
 ### TECHNICAL SKILLS
 -	Operating Systems
