@@ -12,7 +12,7 @@ Dedicated and motivated fresher seeking an entry-level position in DevOps and Cl
 AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE   | ANSIBLE / CHEF / PUPPET  | LINUX / MICROSOFT / OPEN SOURCE
 ### TECHNICAL SKILLS
 -	Operating Systems
-	-	Ubuntu, Centos, RHEL, Linux, Asteriks, Debian, Fedora, Windows Server 2003 - 2012
+	-	Ubuntu, Centos, RHEL, Linux,  Debian, Fedora, Windows Server
 -	Amazon Web Services (AWS)
 	-	EC2, ECS, S3, Auto Scaling, Elastic Load Balancing, Internet Access Management, Security Groups, Virtual Private Networking, Route 53
 -	Networking
@@ -31,7 +31,7 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE   | ANSIBLE / CHEF / PUPPET 
 -	Security
 	-	OpenSSL - Diffie-Helman, RSA, DH, DSA, X.509, UFW	
 -	Monitoring
-	-	Nagios,  
+	-	Nagios, Prometheus ,Grafana 
 -	Web Servers
 	-	Nginx, Apache, PHP	
 -	Containerization & Orchestration
