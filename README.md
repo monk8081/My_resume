@@ -1,10 +1,23 @@
+# Yomi Ogunyinka (BA Business Studies) 
+| EMAIL | WEBSITE | LINKEDIN |
+| :-: | :-: | :-: |
+Yomi.O@JaghoConsultants.co.uk | https://developer.jagho.tk | https://www.linkedin.com/in/jaghoconsultants/ 
+### AWS DevOps Engineer / SRE Engineer / Cloud Engineer / Platform Engineer
+
+
+
+
+
+
+
+
+
 # MANISH MAURYA
 | EMAIL | LINKEDIN |
-| :-: | :-: | :-: |
-mmaurya694@gmail.com  | (https://www.linkedin.com/in/manish-maurya-9506b11ba/) |
+| :-: | :-: |
+mmaurya694@gmail.com  | https://www.linkedin.com/in/manish-maurya-9506b11ba/
+
 Dedicated and motivated fresher seeking an entry-level position in DevOps and Cloud, with a passion for designing and building scalable, secure, and automated cloud infrastructure. Eager to contribute to dynamic teams and leverage cloud technologies to drive innovation..
-
-
 
 
 ## KEY SKILLS
